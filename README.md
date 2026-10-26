@@ -19,4 +19,11 @@ To run this project from the source code, you need Python installed on your syst
 
 ## 🎯 Usage
 
+1.  **Awake/Sleep:** Move your index finger to the top-left 'LOCK' box and hold for 3 seconds to toggle system states.
+2.  **Navigation:** Move your index finger around the active area.
+3.  **Left Click:** Raise your index and middle fingers together.
+4.  **Right Click:** Raise your index and pinky fingers together.
+5.  **Drag & Drop:** Pinch your index finger and thumb together to hold, release to drop.
+6.  **Scroll:** Raise index, middle, and ring fingers and move your hand vertically.
+
 If you want to test the application without setting up a Python environment, you can download the standalone `.exe` version from the **Releases** section on the right sidebar.
